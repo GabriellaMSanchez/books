@@ -2,16 +2,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This web app is designed to make a shareable Reading List that populates with random photos (provided by [LoremPicsum](https://picsum.photos/)). You are able to create, edit, and delete books from this Reading List.
 
-Blank Reading List:
+# Blank Reading List:
+
 ![Screen Shot 2024-01-08 at 11 19 55 AM](https://github.com/GabriellaMSanchez/books/assets/83431411/ecc2ef71-1050-4638-9ead-5443367ad7e8)
 
-Reading List with books:
+# Reading List with books:
+
 ![Screen Shot 2024-01-08 at 11 21 47 AM](https://github.com/GabriellaMSanchez/books/assets/83431411/ff44c527-e5c7-41ed-a28c-5b68866a8387)
 
-Editing a book title:
+# Editing a book title:
+
 ![Screen Shot 2024-01-08 at 11 22 05 AM](https://github.com/GabriellaMSanchez/books/assets/83431411/9f5b367e-0529-4169-bdb8-c6a617bf084f)
 
-Reading List with updated title:
+# Reading List with updated title:
+
 ![Screen Shot 2024-01-08 at 11 22 17 AM](https://github.com/GabriellaMSanchez/books/assets/83431411/0489ee88-f0aa-4e50-99c3-a6258254c879)
 
 
