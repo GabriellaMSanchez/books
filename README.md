@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This web app is designed to make a shareable Reading List that populates with random photos (provided by [LoremPicsum](https://picsum.photos/)). You are able to create, edit, and delete books from this Reading List.
+This web app is designed to make a shareable Reading List that populates with random photos (provided by [LoremPicsum](https://picsum.photos/)). You are able to create, edit, and delete books from this Reading List.
 
 ## Available Scripts
 
